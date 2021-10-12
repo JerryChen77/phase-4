@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: http://10.31.162.58:8080/my-team/my-netflix-demo-config-server.git
+          search-paths: repo
+#          username:
+#          password:
+      label: master
+
+server:
+  port: 8888
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+# 配置一个git仓库的地址
+

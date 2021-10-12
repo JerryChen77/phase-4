@@ -1,0 +1,38 @@
+spring:
+  application:
+    name: zuul-server
+  redis:
+    host: 10.31.162.58
+    password: qfjava
+server:
+  port: 8765
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+# 编写zuul的路由表
+zuul:
+  routes:
+    api-worker-ribbon:
+      path: /ribbon/**
+      serviceId: WORKER-CONSUMER
+      # 剥离前缀，如果是false，前缀/ribbon在目标的服务的路径中是真实存在的。
+      strip-prefix: false
+    api-worker-feign:
+      path: /feign/**
+      serviceId: WORKER-CONSUMER-FEIGN
+  # 统一前缀的配置
+  prefix: /api
+#  strip-prefix: false
+  # 保护敏感路径：所有只要包含/admin/路径的访问都会被拒绝，在业务场景中 admin 的访问应该属于内部管理员访问的路径
+  ignored-patterns: /**/admin/**
+  # 敏感头：设置敏感头集合为空的
+  sensitive-headers:
+
+
+# ribbon的超时配置
+ribbon:
+  ReadTimeout: 3000
+  ConnectTimeout: 3000
+
+# redis

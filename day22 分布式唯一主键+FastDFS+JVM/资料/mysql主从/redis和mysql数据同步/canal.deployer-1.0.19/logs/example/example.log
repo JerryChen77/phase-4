@@ -1,0 +1,8 @@
+2021-07-28 11:22:05.783 [main] INFO  c.a.o.c.i.spring.support.PropertyPlaceholderConfigurer - Loading properties file from class path resource [canal.properties]
+2021-07-28 11:22:05.788 [main] INFO  c.a.o.c.i.spring.support.PropertyPlaceholderConfigurer - Loading properties file from class path resource [example/instance.properties]
+2021-07-28 11:22:05.835 [main] WARN  org.springframework.beans.TypeConverterDelegate - PropertyEditor [com.sun.beans.editors.EnumEditor] found through deprecated global PropertyEditorManager fallback - consider using a more isolated form of registration, e.g. on the BeanWrapper/BeanFactory!
+2021-07-28 11:22:05.915 [main] INFO  c.a.otter.canal.instance.spring.CanalInstanceWithSpring - start CannalInstance for 1-example 
+2021-07-28 11:22:05.930 [main] INFO  c.a.otter.canal.instance.spring.CanalInstanceWithSpring - start successful....
+2021-07-28 11:22:06.021 [destination = example , address = /172.16.253.29:3306 , EventParser] WARN  c.a.otter.canal.parse.inbound.mysql.MysqlEventParser - prepare to find start position just show master status
+2021-07-28 16:14:16.099 [Thread-3] INFO  c.a.otter.canal.instance.spring.CanalInstanceWithSpring - stop CannalInstance for 1-example 
+2021-07-28 16:14:16.131 [Thread-3] INFO  c.a.otter.canal.instance.spring.CanalInstanceWithSpring - stop successful....

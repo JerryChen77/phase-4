@@ -1,0 +1,91 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option PermSize=96m; support was removed in 8.0
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+Java HotSpot(TM) 64-Bit Server VM warning: UseCMSCompactAtFullCollection is deprecated and will likely be removed in a future release.
+2021-09-06 14:29:24.598 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## start the canal server.
+2021-09-06 14:29:24.676 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[127.0.0.1:11111]
+2021-09-06 14:29:25.091 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## the canal server is running now ......
+2021-09-06 15:24:55.906 [Thread-3] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## stop the canal server
+2021-09-06 15:24:56.730 [Thread-3] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[127.0.0.1:11111]
+2021-09-06 15:24:56.730 [Thread-3] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## canal server is down.
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option PermSize=96m; support was removed in 8.0
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+Java HotSpot(TM) 64-Bit Server VM warning: UseCMSCompactAtFullCollection is deprecated and will likely be removed in a future release.
+2021-09-06 15:26:21.032 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## start the canal server.
+2021-09-06 15:26:21.117 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[127.0.0.1:11111]
+2021-09-06 15:26:21.638 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## the canal server is running now ......
+2021-09-06 19:46:55.646 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## start the canal server.
+2021-09-06 19:46:56.058 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[127.0.0.1:11111]
+2021-09-06 19:46:59.202 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## the canal server is running now ......
+2021-09-06 19:48:07.304 [New I/O server worker #1-1] ERROR c.a.otter.canal.server.netty.handler.SessionHandler - something goes wrong with channel:[id: 0x78af84cd, /127.0.0.1:63688 => /127.0.0.1:11111], exception=java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:356)
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:321)
+	at org.jboss.netty.channel.socket.nio.NioWorker.processSelectedKeys(NioWorker.java:280)
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:200)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+2021-09-06 19:49:38.697 [New I/O server worker #1-2] ERROR c.a.otter.canal.server.netty.handler.SessionHandler - something goes wrong with channel:[id: 0x57046fc1, /127.0.0.1:63715 => /127.0.0.1:11111], exception=java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:356)
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:321)
+	at org.jboss.netty.channel.socket.nio.NioWorker.processSelectedKeys(NioWorker.java:280)
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:200)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+2021-09-06 19:52:23.669 [canal-instance-scan-0] INFO  c.a.o.canal.deployer.monitor.SpringInstanceConfigMonitor - auto notify reload example successful.
+2021-09-06 19:53:18.870 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## start the canal server.
+2021-09-06 19:53:19.009 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[127.0.0.1:11111]
+2021-09-06 19:53:20.347 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## the canal server is running now ......
+2021-09-06 20:12:16.560 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## start the canal server.
+2021-09-06 20:12:16.719 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[127.0.0.1:11111]
+2021-09-06 20:12:18.213 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## the canal server is running now ......
+2021-09-06 20:28:28.538 [canal-instance-scan-0] INFO  c.a.o.canal.deployer.monitor.SpringInstanceConfigMonitor - auto notify reload example successful.
+2021-09-06 20:28:38.230 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## start the canal server.
+2021-09-06 20:28:38.390 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[127.0.0.1:11111]
+2021-09-06 20:28:39.969 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## the canal server is running now ......
+2021-09-06 20:35:05.896 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## start the canal server.
+2021-09-06 20:35:06.029 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[127.0.0.1:11111]
+2021-09-06 20:35:07.387 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## the canal server is running now ......
+2021-09-06 20:43:32.002 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## start the canal server.
+2021-09-06 20:43:32.129 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[127.0.0.1:11111]
+2021-09-06 20:43:33.464 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## the canal server is running now ......
+2021-09-06 20:51:59.776 [New I/O server worker #1-1] ERROR c.a.otter.canal.server.netty.handler.SessionHandler - something goes wrong with channel:[id: 0x2f5c9193, /127.0.0.1:50572 => /127.0.0.1:11111], exception=java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:356)
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:321)
+	at org.jboss.netty.channel.socket.nio.NioWorker.processSelectedKeys(NioWorker.java:280)
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:200)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+2021-09-06 20:53:54.930 [New I/O server worker #1-2] ERROR c.a.otter.canal.server.netty.handler.SessionHandler - something goes wrong with channel:[id: 0x7fdc056b, /127.0.0.1:58002 => /127.0.0.1:11111], exception=java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:356)
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:321)
+	at org.jboss.netty.channel.socket.nio.NioWorker.processSelectedKeys(NioWorker.java:280)
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:200)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+

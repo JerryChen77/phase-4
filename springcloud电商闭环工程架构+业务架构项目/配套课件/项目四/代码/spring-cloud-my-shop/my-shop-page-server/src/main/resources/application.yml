@@ -1,0 +1,25 @@
+server:
+  port: 8205
+spring:
+  application:
+    name: page-server
+  # 配置连接池Druid
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.2.170:3306/my-shop-v3?serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+    type: com.alibaba.druid.pool.DruidDataSource
+eureka:
+  client:
+    service-url:
+      defaultZone: http://192.168.2.170:9201/eureka/
+# 指明mapper映射文件的位置
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+# 静态页面的保存路径
+pagepath: /usr/local/docker/nginx/wwwroot/pages/
+
+
+
+

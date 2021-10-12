@@ -1,0 +1,16 @@
+dubbo:
+  application:
+    name: view-web
+  registry:
+    address: zookeeper://172.16.253.35:2181
+
+server:
+  port: 8090
+spring:
+  application:
+    name: search-web
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+

@@ -1,0 +1,23 @@
+dubbo:
+  application:
+    name: view-web
+  registry:
+    address: zookeeper://172.16.253.35:2181
+
+server:
+  port: 8082
+
+spring:
+  kafka:
+    bootstrap-servers: 172.16.253.38:9092,172.16.253.38:9093,172.16.253.38:9094
+    consumer:
+      group-id: default-group
+      enable-auto-commit: true
+      auto-offset-reset: latest
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      max-poll-records: 1000
+  redis:
+    host: 172.16.253.34
+    port: 6379
+    password: qfjava

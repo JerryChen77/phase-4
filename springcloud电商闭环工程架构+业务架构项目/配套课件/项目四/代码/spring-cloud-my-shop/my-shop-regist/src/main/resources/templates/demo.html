@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div style="width: 90%">
+
+    <table border="1px" width="100%">
+
+        <tr>
+            <td>姓名</td>
+            <td>年龄</td>
+        </tr>
+        <tr th:each="stu : ${stus}" th:if="${stu.age>20}">
+            <td th:text="${stu.name}">姓名</td>
+            <td th:text="${stu.age}">年龄</td>
+        </tr>
+
+    </table>
+
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+server:
+  port: 8207
+spring:
+  application:
+    name: pay-server
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9201/eureka/

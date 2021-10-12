@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c731aeb-1aef-4711-a579-93593363ded3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-regist/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-cache-data-access-server/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-common/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-sms-server/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-login/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-front-index/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-search-server/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-page-server/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-cart/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/controller/CartController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="43" lean-forward="true" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/service/ICartService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/service/impl/CartServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="72" column="26" lean-forward="true" selection-end-line="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/MyShopCartApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my-shop-page-server/src/main/java/com/qf/my/shop/page/server/controller/PageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="925">
+              <caret line="52" lean-forward="true" selection-end-line="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/constant/RedisConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/constant/CookieConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/entity/CartItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-cart/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sendMobileCode</find>
+      <find>侧边</find>
+      <find>tb-booth tb-pic tb-s310</find>
+      <find>twlistNews</find>
+      <find>&lt;img src=&quot;images/01_mid.jpg</find>
+      <find>images/01_mid.jpg</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/my-shop-login/src/main/java/com/qf/my/shop/login/MyShopLoginApplication.java" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/util/JsonUtil.java" />
+        <option value="$PROJECT_DIR$/my-shop-login/src/main/java/com/qf/my/shop/login/service/ILoginService.java" />
+        <option value="$PROJECT_DIR$/my-shop-login/src/main/java/com/qf/my/shop/login/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/my-shop-login/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/util/RestHttpUtil.java" />
+        <option value="$PROJECT_DIR$/my-shop-login/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/my-shop-regist/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-regist/src/main/java/com/qf/my/shop/regist/service/impl/RegistServiceImpl.java" />
+        <option value="$PROJECT_DIR$/my-shop-regist/src/main/java/com/qf/my/shop/regist/config/SpringSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/my-shop-login/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-login/src/main/java/com/qf/my/shop/login/service/impl/LoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/my-shop-regist/src/test/java/com/qf/my/shop/regist/MyShopRegistApplicationTests.java" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/mapper/TUserMapper.java" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/mapper/TProductTypeMapper.java" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/mapper/TProductMapper.java" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/mapper/TProductDescMapper.java" />
+        <option value="$PROJECT_DIR$/my-shop-front-index/src/main/java/com/qf/my/shop/front/index/service/IProductTypeService.java" />
+        <option value="$PROJECT_DIR$/my-shop-front-index/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-front-index/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my-shop-front-index/src/main/java/com/qf/my/shop/front/index/service/impl/ProductTypeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/base/IBaseDAO.java" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/base/IBaseService.java" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/base/BaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/resources/mapper/TProductTypeMapper.xml" />
+        <option value="$PROJECT_DIR$/my-shop-front-index/src/main/java/com/qf/my/shop/front/index/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/my-shop-front-index/src/main/java/com/qf/my/shop/front/index/MyShopFrontIndexApplication.java" />
+        <option value="$PROJECT_DIR$/my-shop-front-index/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/my-shop-search-server/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-search-server/src/main/java/com/qf/my/shop/search/server/entity/SearchBean.java" />
+        <option value="$PROJECT_DIR$/my-shop-search-server/src/main/resources/mapper/SearchBeanMapper.xml" />
+        <option value="$PROJECT_DIR$/my-shop-search-server/src/main/java/com/qf/my/shop/search/server/MyShopSearchServerApplication.java" />
+        <option value="$PROJECT_DIR$/my-shop-search-server/src/main/java/com/qf/my/shop/search/server/mapper/SearchBeanMapper.java" />
+        <option value="$PROJECT_DIR$/my-shop-search-server/src/main/java/com/qf/my/shop/search/server/controller/InitDataToSolrController.java" />
+        <option value="$PROJECT_DIR$/my-shop-search-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my-shop-search-server/src/main/java/com/qf/my/shop/search/server/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/my-shop-page-server/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-page-server/src/main/java/com/qf/my/shop/page/server/MyShopPageServerApplication.java" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/resources/mapper/TProductMapper.xml" />
+        <option value="$PROJECT_DIR$/my-shop-page-server/src/main/java/com/qf/my/shop/page/server/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/my-shop-page-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my-shop-page-server/src/main/resources/templates/introduction.ftl" />
+        <option value="$PROJECT_DIR$/my-shop-search-server/src/main/resources/templates/search.html" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/constant/CookieConstant.java" />
+        <option value="$PROJECT_DIR$/my-shop-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-cart/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/constant/RedisConstant.java" />
+        <option value="$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/entity/CartItem.java" />
+        <option value="$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/service/ICartService.java" />
+        <option value="$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/service/impl/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/controller/CartController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my-shop-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my-shop-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my-shop-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-18" />
+    <option name="y" value="35" />
+    <option name="width" value="1940" />
+    <option name="height" value="923" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-cloud-my-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-my-shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600676832594" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-shop-regist/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\06《ElasticSearch》\代码\spring-cloud-my-shop\my-shop-common\src\main\resources" />
+      <recent name="E:\06《ElasticSearch》\代码\spring-cloud-my-shop\my-shop-regist\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qf.my.shop.search.server.mapper" />
+      <recent name="com.qf.my.shop.login.config" />
+      <recent name="com.qf.my.shop.front.index.config" />
+      <recent name="com.qf.common.util" />
+      <recent name="com.qf.common.vo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\06《ElasticSearch》\代码\spring-cloud-my-shop\my-shop-page-server\src\main\resources\templates" />
+      <recent name="E:\06《ElasticSearch》\代码\spring-cloud-my-shop\my-shop-search-server\src\main\resources\templates" />
+      <recent name="E:\06《ElasticSearch》\代码\spring-cloud-my-shop\my-shop-search-server\src\main\resources\mapper" />
+      <recent name="E:\06《ElasticSearch》\代码\spring-cloud-my-shop\my-shop-common\src\main\resources\mapper" />
+      <recent name="E:\06《ElasticSearch》\代码\spring-cloud-my-shop\my-shop-common\src\main\java\com\qf\common\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.27663934" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MyShopCartApplication">
+    <configuration name="MyShopRegistApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-shop-regist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.my.shop.regist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.my.shop.regist" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.my.shop.regist.MyShopRegistApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopRegistApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-shop-regist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.my.shop.regist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.my.shop.regist" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.my.shop.regist.MyShopRegistApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopRegistApplicationTests.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-shop-regist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.my.shop.regist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.my.shop.regist" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.my.shop.regist.MyShopRegistApplicationTests" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopCacheDataAccessServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-shop-cache-data-access-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my.shop.cache.data.access.server.MyShopCacheDataAccessServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-shop-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my.shop.cart.MyShopCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-shop-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my.shop.eureka.server.MyShopEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopFrontIndexApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-shop-front-index" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my.shop.front.index.MyShopFrontIndexApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopLoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-shop-login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my.shop.login.MyShopLoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopPageServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-shop-page-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my.shop.page.server.MyShopPageServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopRegistApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-shop-regist" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my.shop.regist.MyShopRegistApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopSearchServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-shop-search-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my.shop.search.server.MyShopSearchServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopSmsServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-shop-sms-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.my.shop.sms.server.MyShopSmsServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyShopRegistApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.MyShopRegistApplicationTests.test1" />
+      <item itemvalue="JUnit.MyShopRegistApplicationTests.test2" />
+      <item itemvalue="Spring Boot.MyShopCacheDataAccessServerApplication" />
+      <item itemvalue="Spring Boot.MyShopEurekaServerApplication" />
+      <item itemvalue="Spring Boot.MyShopRegistApplication" />
+      <item itemvalue="Spring Boot.MyShopSmsServerApplication" />
+      <item itemvalue="Spring Boot.MyShopLoginApplication" />
+      <item itemvalue="Spring Boot.MyShopFrontIndexApplication" />
+      <item itemvalue="Spring Boot.MyShopSearchServerApplication" />
+      <item itemvalue="Spring Boot.MyShopPageServerApplication" />
+      <item itemvalue="Spring Boot.MyShopCartApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyShopRegistApplicationTests.test2" />
+        <item itemvalue="JUnit.MyShopRegistApplicationTests.test1" />
+        <item itemvalue="JUnit.MyShopRegistApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c731aeb-1aef-4711-a579-93593363ded3" name="Default Changelist" comment="" />
+      <created>1600155250525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600155250525</updated>
+      <workItem from="1600155257493" duration="3445000" />
+      <workItem from="1600218031892" duration="13220000" />
+      <workItem from="1600256415673" duration="1852000" />
+      <workItem from="1600264370238" duration="3575000" />
+      <workItem from="1600305934161" duration="16725000" />
+      <workItem from="1600355593373" duration="586000" />
+      <workItem from="1600391698829" duration="11900000" />
+      <workItem from="1600650209237" duration="5495000" />
+      <workItem from="1600659279266" duration="7830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyShopRegistApplicationTests_contextLoads - 2020.09.16 at 10h 08m 44s.xml">
+      <configuration name="MyShopRegistApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopRegistApplicationTests_contextLoads - 2020.09.16 at 10h 09m 28s.xml">
+      <configuration name="MyShopRegistApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopRegistApplicationTests_test1 - 2020.09.18 at 09h 42m 18s.xml">
+      <configuration name="MyShopRegistApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopRegistApplicationTests_test1 - 2020.09.18 at 09h 43m 23s.xml">
+      <configuration name="MyShopRegistApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyShopRegistApplicationTests_test2 - 2020.09.18 at 09h 46m 24s.xml">
+      <configuration name="MyShopRegistApplicationTests.test2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64628000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49773756" visible="true" weight="0.24262735" />
+      <window_info id="Structure" order="1" sideWeight="0.5022625" side_tool="true" weight="0.37619048" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56624824" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.38493723" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.50402147" side_tool="true" weight="0.33193862" />
+      <window_info anchor="bottom" id="Messages" order="17" weight="0.15341702" />
+      <window_info anchor="bottom" id="Run Dashboard" order="18" sideWeight="0.49597856" visible="true" weight="0.23012552" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.22199866" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.41018766" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="9" weight="0.41420913" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/my-shop-cache-data-access-server/src/main/java/com/qf/my/shop/cache/data/access/server/controller/DataController.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/my-shop-search-server/src/main/java/com/qf/my/shop/search/server/controller/SearchController.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/resources/mapper/TProductDescMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/mapper/TUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/mapper/TProductDescMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="68" lean-forward="true" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/mapper/TProductTypeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-login/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="45" column="21" selection-start-line="31" selection-start-column="8" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-front-index/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-login/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-front-index/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/base/IBaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/base/BaseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/resources/mapper/TProductTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-front-index/src/main/java/com/qf/my/shop/front/index/service/IProductTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-front-index/src/main/java/com/qf/my/shop/front/index/MyShopFrontIndexApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-front-index/src/main/java/com/qf/my/shop/front/index/service/impl/ProductTypeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="104" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.6.RELEASE/spring-webmvc-5.2.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-front-index/src/main/java/com/qf/my/shop/front/index/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-front-index/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="100" column="13" selection-start-line="99" selection-start-column="8" selection-end-line="146" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-regist/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="47" column="21" selection-start-line="30" selection-start-column="8" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-search-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-search-server/src/main/java/com/qf/my/shop/search/server/MyShopSearchServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-search-server/src/main/java/com/qf/my/shop/search/server/mapper/SearchBeanMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-search-server/src/main/resources/mapper/SearchBeanMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-search-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-search-server/src/main/java/com/qf/my/shop/search/server/controller/InitDataToSolrController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-search-server/src/main/java/com/qf/my/shop/search/server/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-sms-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-regist/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/entity/TProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-page-server/src/main/java/com/qf/my/shop/page/server/MyShopPageServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/mapper/TProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/base/IBaseDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/resources/mapper/TProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-page-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-page-server/src/main/resources/static/3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="144" column="338" selection-start-line="144" selection-start-column="321" selection-end-line="144" selection-end-column="338" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-page-server/src/main/resources/templates/introduction.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="144" column="46" selection-start-line="144" selection-start-column="45" selection-end-line="144" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-search-server/src/main/java/com/qf/my/shop/search/server/entity/SearchBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-search-server/src/main/resources/templates/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="168" column="103" selection-start-line="168" selection-start-column="36" selection-end-line="168" selection-end-column="103" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-page-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" selection-start-line="2" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/constant/CartConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/constant/CookieConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-cart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-common/src/main/java/com/qf/common/constant/RedisConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/MyShopCartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/entity/CartItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/service/ICartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="43" lean-forward="true" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-cart/src/main/java/com/qf/my/shop/cart/service/impl/CartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="72" column="26" lean-forward="true" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-page-server/src/main/java/com/qf/my/shop/page/server/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="52" lean-forward="true" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+dubbo:
+  application:
+    name: worker-facade
+  registry:
+    address: zookeeper://10.31.162.58:2181
+  protocol:
+    port: 20881
+server:
+  port: 9091
+
+# 指明mapper映射文件的位置
+mybatis:
+  mapper-locations: classpath:META-INF/mapper/*.xml
+
+# 配置连接池Druid
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/db_data_view?serverTimezone=Asia/Shanghai
+    username: root
+    password: qf123456
+    type: com.alibaba.druid.pool.DruidDataSource
+  redis:
+    host: 10.31.162.58
+    password: qfjava

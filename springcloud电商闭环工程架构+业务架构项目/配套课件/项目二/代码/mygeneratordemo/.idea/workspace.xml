@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="my-wx-pay-demo2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a81a122d-aae7-4cd8-8daa-72c80bfc829b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/generator/generatorConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="38" lean-forward="true" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/common/entity/TUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/common/mapper/TUserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TUserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="52" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-context-mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/sdk/MyWXPayDomain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/sdk/WXPayUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/sdk/WXPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/sdk/WXPayRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pay_suc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/controller/WXPaycontroller.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/MyPay.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-context-druid.xml" />
+        <option value="$PROJECT_DIR$/target/classes/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/qf/test/TestProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/entity/vo/OrderVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/service/IOrderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/service/ISaledProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/service/IOrderInfoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/service/impl/OrderInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/mapper/TOrderinfoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/TOrderinfoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/common/util/MyUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/service/IProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/mapper/TProductMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/TProductMapper.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/qf/test/TestOrder.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/generator/generatorConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mygeneratordemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mygeneratordemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mygeneratordemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mygeneratordemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="777" />
+    <option name="y" value="70" />
+    <option name="width" value="1548" />
+    <option name="height" value="1003" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mygeneratordemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygeneratordemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygeneratordemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygeneratordemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygeneratordemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygeneratordemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygeneratordemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygeneratordemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygeneratordemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygeneratordemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygeneratordemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygeneratordemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygeneratordemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygeneratordemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygeneratordemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygeneratordemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygeneratordemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygeneratordemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygeneratordemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygeneratordemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygeneratordemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygeneratordemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600314831017" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2019\1902\day06vue+微信支付\资料\WxPayAPI_JAVA\my-wx-pay-demo2\src\main\java\com\qf" />
+      <recent name="D:\2019\1902\day06vue+微信支付\资料\WxPayAPI_JAVA\my-wx-pay-demo2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestOrder.addOrder">
+    <configuration name="TestOrder.addOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-wx-pay-demo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.test" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.test.TestOrder" />
+      <option name="METHOD_NAME" value="addOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProduct.testAddProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-wx-pay-demo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.test" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.test.TestProduct" />
+      <option name="METHOD_NAME" value="testAddProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="my-wx-pay-demo2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_my-wx-pay-demo2" />
+        <option name="HTTP_PORT" value="80" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57975" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="57976" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="my-wx-pay-demo2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestOrder.addOrder" />
+        <item itemvalue="JUnit.TestProduct.testAddProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a81a122d-aae7-4cd8-8daa-72c80bfc829b" name="Default Changelist" comment="" />
+      <created>1562032164181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562032164181</updated>
+      <workItem from="1562032167401" duration="1551000" />
+      <workItem from="1562035678384" duration="4376000" />
+      <workItem from="1562050391121" duration="6994000" />
+      <workItem from="1562125408064" duration="1207000" />
+      <workItem from="1562134791671" duration="6928000" />
+      <workItem from="1563957232832" duration="421000" />
+      <workItem from="1564067789210" duration="1018000" />
+      <workItem from="1564122654526" duration="1771000" />
+      <workItem from="1564142032640" duration="593000" />
+      <workItem from="1564188788743" duration="16000" />
+      <workItem from="1564455367471" duration="715000" />
+      <workItem from="1564483280100" duration="593000" />
+      <workItem from="1564542611598" duration="594000" />
+      <workItem from="1564622507222" duration="598000" />
+      <workItem from="1564716130299" duration="596000" />
+      <workItem from="1564838271971" duration="2018000" />
+      <workItem from="1565057537159" duration="596000" />
+      <workItem from="1589185361955" duration="2364000" />
+      <workItem from="1589332285035" duration="1079000" />
+      <workItem from="1589355479833" duration="593000" />
+      <workItem from="1590026222565" duration="1370000" />
+      <workItem from="1590196463639" duration="592000" />
+      <workItem from="1590368808571" duration="596000" />
+      <workItem from="1590455241261" duration="597000" />
+      <workItem from="1590481731824" duration="594000" />
+      <workItem from="1590543045044" duration="598000" />
+      <workItem from="1590628541098" duration="595000" />
+      <workItem from="1590714800090" duration="1233000" />
+      <workItem from="1590973668455" duration="598000" />
+      <workItem from="1591055476555" duration="614000" />
+      <workItem from="1593432409283" duration="1887000" />
+      <workItem from="1593479453826" duration="5449000" />
+      <workItem from="1593572910066" duration="589000" />
+      <workItem from="1593652407418" duration="1443000" />
+      <workItem from="1593738744410" duration="596000" />
+      <workItem from="1593999516800" duration="1484000" />
+      <workItem from="1594083917040" duration="595000" />
+      <workItem from="1594171609590" duration="591000" />
+      <workItem from="1594344227255" duration="579000" />
+      <workItem from="1596732902453" duration="823000" />
+      <workItem from="1596765918348" duration="901000" />
+      <workItem from="1596849284798" duration="598000" />
+      <workItem from="1597573403632" duration="660000" />
+      <workItem from="1597590962204" duration="595000" />
+      <workItem from="1597634413543" duration="958000" />
+      <workItem from="1597643231692" duration="117000" />
+      <workItem from="1597644066824" duration="589000" />
+      <workItem from="1597668174562" duration="594000" />
+      <workItem from="1597713469434" duration="597000" />
+      <workItem from="1600306731348" duration="1641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestProduct_testAddProduct - 2019.07.03 at 14h 53m 08s.xml">
+      <configuration name="TestProduct.testAddProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_testAddProduct - 2019.07.03 at 14h 54m 27s.xml">
+      <configuration name="TestProduct.testAddProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_testAddProduct - 2019.07.03 at 14h 55m 52s.xml">
+      <configuration name="TestProduct.testAddProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_testAddProduct - 2019.07.03 at 14h 56m 43s.xml">
+      <configuration name="TestProduct.testAddProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_testAddProduct - 2019.07.03 at 15h 02m 11s.xml">
+      <configuration name="TestProduct.testAddProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_testAddProduct - 2019.07.03 at 15h 04m 27s.xml">
+      <configuration name="TestProduct.testAddProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_testAddProduct - 2019.07.03 at 15h 20m 07s.xml">
+      <configuration name="TestProduct.testAddProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_testAddProduct - 2019.07.03 at 15h 20m 33s.xml">
+      <configuration name="TestProduct.testAddProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOrder_addOrder - 2019.07.03 at 16h 13m 20s.xml">
+      <configuration name="TestOrder.addOrder" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63294000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32171583" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54825735" visible="true" weight="0.11576011" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32914925" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32914925" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.16039051" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="JRebel Console" order="17" sideWeight="0.45174262" side_tool="true" visible="true" weight="0.11576011" />
+      <window_info anchor="bottom" id="Messages" order="18" weight="0.09902371" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.3961126" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="9" weight="0.04758713" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/MyPay.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pay_suc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/sdk/WXPayRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/sdk/WXPay.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TOrderMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/mapper/TOrderMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/spring-context-mybatis.xml" />
+    <entry file="file://$PROJECT_DIR$/target/classes/spring-mvc.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context-druid.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="e#843#864#0" expanded="true" />
+            <element signature="e#1009#1027#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/qf/test/TestProduct.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/entity/vo/OrderVO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/service/ISaledProductService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TOrderinfoMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/mapper/TOrderinfoMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/entity/TOrderinfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/service/impl/OrderInfoServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/common/util/MyUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/entity/TOrder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/mapper/TProductMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/service/impl/OrderServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/service/IOrderService.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/qf/test/TestOrder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/service/impl/ProductServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TProductMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/service/IProductService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/service/IOrderInfoService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/controller/WXPaycontroller.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3289">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/v2/mapper/TProductMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/v2/mapper/TProductDescMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/v2/entity/TUser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/v2/mapper/TUserMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TProductTypeMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/v2/entity/TProductType.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/v2/mapper/TProductTypeMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/entity/TbProduct.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/mapper/TbProductMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/spring/boot/demo/entity/TUser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/spring/boot/demo/mapper/TUserMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/mapper/TProductTypeMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/common/entity/TUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/common/mapper/TUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generator/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="38" lean-forward="true" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

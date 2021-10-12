@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: image-server
+server:
+  port: 8001
+fdfs:
+  so-timeout: 1500
+  connect-timeout: 600
+  pool:
+    jmx-enabled: false
+  tracker-list: 172.16.253.48:22122
+  thumb-image:
+    height: 100
+    width: 100
+image:
+  server: http://172.16.253.48:8888/

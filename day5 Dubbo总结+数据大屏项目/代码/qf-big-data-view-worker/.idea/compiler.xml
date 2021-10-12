@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="view-ext-integration" />
+        <module name="view-core-service" />
+        <module name="view-core-model" />
+        <module name="model" />
+        <module name="web" />
+        <module name="view-facade-service" />
+        <module name="cart-facade-service" />
+        <module name="cart-core-model" />
+        <module name="cart-ext-integration" />
+        <module name="dal" />
+        <module name="cart-facade-api" />
+        <module name="view-core-dal" />
+        <module name="cart-web" />
+        <module name="cart-core-service" />
+        <module name="view-web" />
+        <module name="view-facade-api" />
+        <module name="cart-core-dal" />
+        <module name="api" />
+        <module name="integration" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

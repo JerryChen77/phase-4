@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.qf.my.shop.search.server.mapper.SearchBeanMapper">
+    <resultMap id="BaseResultMap" type="com.qf.my.shop.search.server.entity.SearchBean">
+        <id column="id" jdbcType="BIGINT" property="id"/>
+        <result column="pname" jdbcType="VARCHAR" property="tProductPname"/>
+        <result column="price" jdbcType="BIGINT" property="tProductPrice"/>
+        <result column="pimage" jdbcType="VARCHAR" property="tProductPimage"/>
+        <result column="pdesc" jdbcType="VARCHAR" property="tProductPdesc"/>
+    </resultMap>
+
+    <select id="selectAll" resultMap="BaseResultMap">
+    SELECT
+  a.id,
+  a.pname,
+  a.price,
+  a.pimage,
+  b.pdesc
+FROM
+  t_product a
+  INNER JOIN t_product_desc b
+    ON a.id = b.id
+  </select>
+
+</mapper>

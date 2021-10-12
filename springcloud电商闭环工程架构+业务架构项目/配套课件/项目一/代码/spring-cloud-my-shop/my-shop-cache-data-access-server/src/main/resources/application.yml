@@ -1,0 +1,12 @@
+server:
+  port: 9202
+spring:
+  application:
+    name: cache-data-access
+  redis:
+    host: 192.168.2.179
+    password: java2001
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9201/eureka/

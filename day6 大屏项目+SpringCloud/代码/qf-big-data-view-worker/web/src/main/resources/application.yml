@@ -1,0 +1,9 @@
+dubbo:
+  application:
+    name: worker-web
+  registry:
+    address: zookeeper://10.31.162.58:2181
+
+server:
+  port: 8090
+

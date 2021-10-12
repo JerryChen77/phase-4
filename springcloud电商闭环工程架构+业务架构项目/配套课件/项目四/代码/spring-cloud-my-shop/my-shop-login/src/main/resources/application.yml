@@ -1,0 +1,18 @@
+server:
+  port: 8202
+spring:
+  application:
+    name: LOGIN-SERVER
+  # 配置连接池Druid
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/my-shop-v3?serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+    type: com.alibaba.druid.pool.DruidDataSource
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9201/eureka/
+mybatis:
+  mapper-locations: classpath:mapper/*.xml

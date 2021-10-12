@@ -1,0 +1,23 @@
+server:
+  port: 8204
+spring:
+  application:
+    name: search-server
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/my-shop-v3?serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+    type: com.alibaba.druid.pool.DruidDataSource
+  #solr:
+  data:
+    solr:
+      host: http://192.168.2.191:8983/solr/ik_core
+# 指明mapper映射文件的位置
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9201/eureka/
+

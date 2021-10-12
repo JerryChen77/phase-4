@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-cache-data-access-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-front-index" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-login" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-regist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-sms-server" charset="UTF-8" />
+  </component>
+</project>

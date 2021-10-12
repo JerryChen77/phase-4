@@ -1,0 +1,59 @@
+#dubbo:
+#  application:
+#    name: view-web
+#  registry:
+#    address: zookeeper://172.16.253.6:2181
+
+server:
+  port: 8090
+spring:
+  redis:
+    host: 10.31.162.58
+    port: 6379
+    password: qfjava
+    jedis:
+      pool:
+        max-idle: 20
+        max-active: 20
+curator:
+  retryCount: 5
+  elapsedTimeMs: 5000
+  connectString: 172.16.253.35:2181
+  sessionTimeoutMs: 60000
+  connectionTimeoutMs: 5000
+
+  kafka:
+    bootstrap-servers: 172.16.253.38:9092,172.16.253.38:9093,172.16.253.38:9094
+    producer: # 生产者
+      retries: 3 # 设置大于0的值，则客户端会将发送失败的记录重新发送
+      batch-size: 16384
+      buffer-memory: 33554432
+      acks: 1
+      # 指定消息key和消息体的编解码方式
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+    consumer:
+      group-id: default-group
+      enable-auto-commit: false
+      auto-offset-reset: earliest
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      max-poll-records: 500
+    listener:
+      # 当每一条记录被消费者监听器（ListenerConsumer）处理之后提交
+      # RECORD
+      # 当每一批poll()的数据被消费者监听器（ListenerConsumer）处理之后提交
+      # BATCH
+      # 当每一批poll()的数据被消费者监听器（ListenerConsumer）处理之后，距离上次提交时间大于TIME时提交
+      # TIME
+      # 当每一批poll()的数据被消费者监听器（ListenerConsumer）处理之后，被处理record数量大于等于COUNT时提交
+      # COUNT
+      # TIME |　COUNT　有一个条件满足时提交
+      # COUNT_TIME
+      # 当每一批poll()的数据被消费者监听器（ListenerConsumer）处理之后, 手动调用Acknowledgment.acknowledge()后提交
+      # MANUAL
+      # 手动调用Acknowledgment.acknowledge()后立即提交，一般使用这种
+      # MANUAL_IMMEDIATE
+      ack-mode: MANUAL_IMMEDIATE
+    redis:
+      host: 172.16.253.21
